@@ -1,4 +1,4 @@
-# BitaHubHelper
+# BitaHub-CLI
 
 BitaHub 平台命令行工具，用于登录、管理项目和任务、查询 GPU 资源。
 
